@@ -1,0 +1,14 @@
+.cdnvote {
+	border:1px solid #ccc;
+	padding:0 10px;
+	margin:15px 0;
+}
+
+.cdnvote ul{
+	padding-left:0;
+	margin-left:0;
+}
+
+.cdnvote ul li{
+	list-style-type:none
+}
